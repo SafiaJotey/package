@@ -301,11 +301,12 @@ footer{
    
     .logo-icon-section .logo{
         width: 40%;
-        margin: 10px auto;
+        padding-top:30px ;
+        margin: 50px auto;
         
     }
     .icons{
-        margin: -20px;
+        margin: -30px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -330,6 +331,7 @@ footer{
            
       }
       .search-area span{
+          font-size: 12px ;
           margin-left:4% ;
       }
       
