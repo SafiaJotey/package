@@ -277,3 +277,148 @@ footer{
 
 
 /* media query */
+
+@media only screen and (max-width: 768px){
+
+    .container{
+        
+        width: 100%;
+       
+    }
+    .layout{
+        
+        flex-direction: column; 
+
+        
+        
+    }
+
+    .logo-icon-section{
+        width:100%;
+        margin-top: -100px;
+         
+    }
+   
+    .logo-icon-section .logo{
+        width: 40%;
+        margin: 10px auto;
+        
+    }
+    .icons{
+        margin: -20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 16px;
+       
+    }
+    .icon{
+        flex-basis: 25%;
+    }
+    
+    .main-layout .signin {
+        height: 200px;
+       flex-direction: column;
+       align-items: center;
+        
+    }
+    .search-area input{
+        
+        height: 70%;
+        
+        
+           
+      }
+      .search-area span{
+          margin-left:4% ;
+      }
+      
+      
+      .main-layout .info-area{
+          width: 50%;
+          flex-direction: column;
+          align-items: center;
+         
+          
+          
+      } 
+      .info-area .name{
+          
+          line-height: 80px;
+          
+          margin-right:50px ;
+      }
+      
+      .info-area .image{
+            width: 15%;
+            margin-right: 20px;
+           
+            
+            
+            
+      }
+      
+    .main-layout{
+        width:100%;
+           
+        
+    }
+    .packages h2{
+        text-align: center;
+        color: rgb(0, 183, 255);
+        font-size: 25px;
+        
+    }
+    .packages p{
+        text-align: center;
+    }
+    
+    .offers{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        line-height: 30px;
+        padding:20px;
+        
+    
+    }
+    .offers .offer{
+        width:60%;
+        
+    }
+    .conditions-section{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .conditions-section .title{
+        text-align: center;
+        margin-bottom: 20px;
+    
+       
+    }
+    
+    .conditions{
+    
+        flex-direction: column;
+       
+    
+    }
+    .condition{
+        flex-basis: 50%;
+        margin: 10x 2%;
+    }
+    
+.condition-1,.condition-2,.condition-3{
+    flex-direction: column;
+      margin: 0px 5px;
+      align-items: center;
+      text-align: center;
+      
+    
+ }
+ 
+ .condition-2,.condition-3{
+     margin: 20px ;
+ }
+    }
