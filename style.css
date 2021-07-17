@@ -44,7 +44,7 @@ a{
 .logo-icon-section{
     width:20%;
      /* background-color:#787A91; */
-     background-color: #548CA8;
+     background-color: #8ecae7;
     text-align: center;
     box-shadow: 1px 1px 4px rgb(141, 139, 139);
 }
@@ -96,7 +96,7 @@ a{
    display: flex;
    justify-content: space-between;
    padding:25px 0 10px;
-    background-color:#548CA8;
+   background-color: #8ecae7;
    
 }
  .signin .search-area{
@@ -150,7 +150,7 @@ a{
 /* packages css */
 
 .packages{
-     background-color: #eeeeee;
+     background-color:white;
     padding: 20px;
 }
 
@@ -176,7 +176,7 @@ a{
     border-radius: 10px;
     margin: 5% 1%;
     padding: 30px 20px;
-    background-color: #EEEEEE;
+    background-color: white;
     box-shadow: 1px 1px 4px rgb(141, 139, 139);
     
 
@@ -221,7 +221,7 @@ a{
     display: flex;
     justify-self: space-between;
     padding:105px 5%;
-    background:#EEEEEE;
+    background:#ffffff;
     
 }
 .conditions-section .title{
@@ -267,7 +267,7 @@ footer{
     display:flex;
     justify-content: center;
     align-items: center;
-    background-color: #548CA8;
+    background-color: #8ecae7;
     color: #0F044C;
     font-size: 16px;
     font-weight: 400;
