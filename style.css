@@ -236,7 +236,7 @@ a{
     font-size: 16px;
 }
 .conditions{
-    
+    overflow-x: hidden;
     display: flex;
    
 
